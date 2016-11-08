@@ -10,3 +10,14 @@
 * Start your own blog
 * Create a game that teaches people vim
 * Start python-leetcode.com
+    * Expand to talk about all sorts of data structures / algorithims
+* Start website that talks about ML algorithims and teaches people them one at a time
+    * maybe a chance to learn d3?
+* Muslims in Tech page/ group/ community
+    * Start on campus
+    * Connect with people downtown
+* Build mockup of Andrew's idea
+
+
+
+
