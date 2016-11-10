@@ -17,7 +17,9 @@
     * Start on campus
     * Connect with people downtown
 * Build mockup of Andrew's idea
-
-
-
-
+* Use ML to deal with
+    * Crime, Amount of people who return to Jail
+    * Chicago City Data
+        * What professions pay the most
+        * What are the most dangerous blocks?
+* How to combine two interesting data sets?
