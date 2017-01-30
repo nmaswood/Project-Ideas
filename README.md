@@ -1,4 +1,9 @@
 # Project-Ideas
+* Fanfiction Generator
+    * Write a neural network to produce fanfiction stories based on popular fanfiction stories on the site
+    * Post it on the site and see how well people respond to it.
+    * Take away will be seeing how poeple respond to art made make by machines
+
 * Existential Dread Solver
     * Randomly generates cheesy inspirational photos using a NN trained on "inspirational quotes" and using randomly stock photos of nature.
     * Host on a website
